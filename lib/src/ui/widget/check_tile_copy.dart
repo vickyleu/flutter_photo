@@ -2,9 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:flutter/material.dart' hide Checkbox, CheckboxListTile;
-
-import 'package:photo/src/ui/widget/check_box_copy.dart';
+import 'package:flutter/material.dart' hide CheckboxListTile;
 
 /// A [ListTile] with a [Checkbox]. In other words, a checkbox with a label.
 ///
